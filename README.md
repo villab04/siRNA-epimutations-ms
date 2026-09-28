@@ -1,4 +1,4 @@
-### Repository files
+## Repository files
 ## Epimutations
 - **`FASTA_min_length.pl`**: Perl script that filters FASTA sequences by minimum length and updates sequence headers with the first base and sequence length.
 - **`shellPombeRNA.sh`**: Bash/SLURM script for processing and aligning small RNA sequencing reads to the *S. pombe* genome using FASTX-Toolkit, Bowtie, SAMtools, and BEDTools.
@@ -18,4 +18,4 @@
 ## Growth_rate
 - **`mutants_growthcurve.R`**: R script for analyzing differences in growth parameters between mutant and wild-type strains using data from `gc_mutantout_edit.csv`.
 
-# Raw sequencing files are available in NCBI under the under the accession number: PRJNA1535449
+ Raw sequencing files are available in NCBI under the under the accession number: PRJNA1535449
